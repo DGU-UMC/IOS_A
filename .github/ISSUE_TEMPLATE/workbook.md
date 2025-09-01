@@ -1,16 +1,19 @@
-name: 📚 Workbook
-description: 워크북 주차 업로드
-title: "[📚 Chapter 0] "
-body:
-  - type: textarea
-    id: workbook-description
-    attributes:
-      label: ✨ 스터디 내용
-      placeholder: |
-        n주차 워크북 | ```Hello TypeScript```
-    validations:
-      required: true
-  - type: textarea
-    id: docs-checklist
-    attributes:
-      label: 📍 참고 사항
+---
+name: 워크북 이슈 생성 템플릿
+about: 해당 이슈 생성 템플릿을 사용하여 워크북 이슈를 생성합니다.
+title: "[Chapter N] "
+labels: ""
+assignees: Hrepay
+---
+
+## ✨ N주차 스터디
+
+> N주차 워크북 | `워크북 제목`
+
+- [ ] todo1
+- [ ] todo2
+      <br/>
+
+## 📍 참고 사항
+
+> 워크북 학습 시 참고 및 주의 사항을 입력해주세요.
