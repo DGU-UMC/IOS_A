@@ -45,7 +45,7 @@ DGU-UMC 9기 IOS 스터디 A조
 1. 각자 소속되어있는 repo에서 **HTTPS 주소를 복사**
 2. **자신의 터미널에서 git 폴더를 생성할 위치로 이동 후, `git clone [HTTPS 주소]` 실행**
 
-- ex) `git clone https://github.com/SSUMC-8th/iOS_A.git`
+- ex) `git clone http~~`
 
 - **tuist 프로젝트가 생성된 폴더와는 다른 개념입니다. tuist 폴더 안에서 실행하지 마세요! 연결을 하면 폴더 하나가 생기니 원하는 위치 아무곳에 실행해주세요!**
 
